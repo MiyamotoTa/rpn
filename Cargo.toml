@@ -1,0 +1,5 @@
+[package]
+name = "rpn"
+version = "0.1.0"
+authors = ["Takahiro Miyamoto <miyamoto_ta@zoho.com>"]
+edition = "2018"
